@@ -6,9 +6,9 @@ const concat: ConcatFn = (a, b) => a + b;
 interface Task {
     howIDoIt: string;
     simeArray: Array<string | number>;
-    withData: Array<object>
+    withData: [{howIDoIt: string, simeArray: Array<string | number>}];
 }
-const MyHometask:Task = {
+const MyHometask: Task = {
     howIDoIt: "I Do It Wel",
     simeArray: ["string one", "string two", 42],
     withData: [{ howIDoIt: "I Do It Wel", simeArray: ["string one", 23] }],
