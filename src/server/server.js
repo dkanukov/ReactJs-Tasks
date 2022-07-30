@@ -1,6 +1,6 @@
 import express from 'express'
 import ReactDOM from 'react-dom/server'
-import { Header } from '../shared/Header.jsx';
+import { Header } from '../shared/Header.tsx';
 import {indexTemplate} from './indexTemplate'
 const app = express();
 
