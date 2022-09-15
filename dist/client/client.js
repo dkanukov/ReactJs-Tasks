@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "7187db19d4ebed78ddd9";
+/******/ 	var hotCurrentHash = "8acdbffb8902473fb1ec";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -918,6 +918,17 @@ eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../n
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css":
+/*!**************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css ***!
+  \**************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\nexports = ___CSS_LOADER_API_IMPORT___(false);\n// Module\nexports.push([module.i, \".cardtextcontent__textContent--1eRgh {\\n  display: flex;\\n  flex-flow: row wrap;\\n}\\n.cardtextcontent__textContent--1eRgh > * + * {\\n  padding: 7px 0 0;\\n}\\n.cardtextcontent__metaData--xJiuU {\\n  display: flex;\\n  flex-flow: row nowrap;\\n  align-items: center;\\n  font-size: 10px;\\n  line-height: 12px;\\n}\\n.cardtextcontent__publishedLabel--2HxQ_ {\\n  display: none;\\n}\\n.cardtextcontent__createdAt--qAV0I,\\n.cardtextcontent__createdAt--qAV0I span {\\n  color: var(--grey99);\\n}\\n.cardtextcontent__userLink--2-6KB {\\n  display: flex;\\n  flex-flow: row nowrap;\\n  align-items: center;\\n  height: 20px;\\n  padding: 0 6px 0 0;\\n}\\n.cardtextcontent__avatar--3p9lp {\\n  border-radius: 20px;\\n  width: 20px;\\n  height: 20px;\\n  margin: 0 7px 0 0;\\n}\\n.cardtextcontent__username--HIvt0 {\\n  color: var(--orange);\\n  position: relative;\\n  z-index: 1;\\n}\\n.cardtextcontent__title--19fvY {\\n  font-size: 16px;\\n  line-height: 19px;\\n  font-weight: normal;\\n  margin: 0;\\n}\\n.cardtextcontent__postLink--3x_2_ {\\n  overflow: hidden;\\n  -webkit-line-clamp: 2;\\n  -webkit-box-orient: vertical;\\n  display: -webkit-box;\\n}\\n.cardtextcontent__postLink--3x_2_::after {\\n  content: '';\\n  position: absolute;\\n  top: 0;\\n  right: 0;\\n  bottom: 0;\\n  left: 0;\\n}\\n.cardtextcontent__preview--3yPKi {\\n  max-height: 107px;\\n  max-width: 190px;\\n  margin: 0 -20px;\\n}\\n.cardtextcontent__previewImg--jmlx6 {\\n  width: 100%;\\n  height: 100%;\\n  object-fit: cover;\\n}\\n@media all and (min-width: 1024px) {\\n  .cardtextcontent__textContent--1eRgh {\\n    flex-basis: 540px;\\n    order: 1;\\n    margin: 0 0 0 38px;\\n    flex-flow: column nowrap;\\n    justify-content: center;\\n  }\\n  .cardtextcontent__textContent--1eRgh > * {\\n    flex: 0 0;\\n  }\\n  .cardtextcontent__metaData--xJiuU {\\n    flex-flow: row-reverse nowrap;\\n    justify-content: flex-end;\\n    font-size: 14px;\\n    line-height: 16px;\\n  }\\n  .cardtextcontent__publishedLabel--2HxQ_ {\\n    display: inline;\\n  }\\n  .cardtextcontent__userLink--2-6KB {\\n    padding: 0 0 0 5px;\\n  }\\n}\\n@media all and (min-width: 1540px) {\\n  .cardtextcontent__textContent--1eRgh {\\n    flex-basis: 672px;\\n  }\\n  .cardtextcontent__userLink--2-6KB:hover a {\\n    text-decoration: underline;\\n  }\\n  .cardtextcontent__textContent--1eRgh {\\n    flex-basis: 540px;\\n    order: 1;\\n    margin: 0 0 0 38px;\\n    flex-flow: column-reverse nowrap;\\n    justify-content: center;\\n  }\\n  .cardtextcontent__textContent--1eRgh > * {\\n    flex: 0 0;\\n  }\\n  .cardtextcontent__title--19fvY {\\n    padding: 0 0 10px 0;\\n    font-size: 20px;\\n    line-height: 23px;\\n  }\\n  .cardtextcontent__postLink--3x_2_ {\\n    -webkit-line-clamp: 1;\\n  }\\n}\\n\", \"\"]);\n// Exports\nexports.locals = {\n\t\"textContent\": \"cardtextcontent__textContent--1eRgh\",\n\t\"metaData\": \"cardtextcontent__metaData--xJiuU\",\n\t\"publishedLabel\": \"cardtextcontent__publishedLabel--2HxQ_\",\n\t\"createdAt\": \"cardtextcontent__createdAt--qAV0I\",\n\t\"userLink\": \"cardtextcontent__userLink--2-6KB\",\n\t\"avatar\": \"cardtextcontent__avatar--3p9lp\",\n\t\"username\": \"cardtextcontent__username--HIvt0\",\n\t\"title\": \"cardtextcontent__title--19fvY\",\n\t\"postLink\": \"cardtextcontent__postLink--3x_2_\",\n\t\"preview\": \"cardtextcontent__preview--3yPKi\",\n\t\"previewImg\": \"cardtextcontent__previewImg--jmlx6\"\n};\nmodule.exports = exports;\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css?./node_modules/css-loader/dist/cjs.js??ref--5-1!./node_modules/less-loader/dist/cjs.js");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/card.css":
 /*!***********************************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/card.css ***!
@@ -1503,7 +1514,42 @@ eval("var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtim
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.Card = void 0;\nvar react_1 = __importDefault(__webpack_require__(/*! react */ \"./node_modules/react/index.js\"));\nvar card_css_1 = __importDefault(__webpack_require__(/*! ./card.css */ \"./src/shared/CardsList/Card/card.css\"));\nfunction Card() {\n    return (react_1.default.createElement(\"li\", { className: card_css_1.default.card }, \"123\"));\n}\nexports.Card = Card;\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/Card.tsx?");
+eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.Card = void 0;\nvar react_1 = __importDefault(__webpack_require__(/*! react */ \"./node_modules/react/index.js\"));\nvar card_css_1 = __importDefault(__webpack_require__(/*! ./card.css */ \"./src/shared/CardsList/Card/card.css\"));\nvar CardTextContent_1 = __webpack_require__(/*! ./CardTextContent */ \"./src/shared/CardsList/Card/CardTextContent/index.ts\");\nfunction Card() {\n    return (react_1.default.createElement(\"li\", { className: card_css_1.default.card },\n        react_1.default.createElement(CardTextContent_1.CardTextContent, null)));\n}\nexports.Card = Card;\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/Card.tsx?");
+
+/***/ }),
+
+/***/ "./src/shared/CardsList/Card/CardTextContent/CardTextContent.tsx":
+/*!***********************************************************************!*\
+  !*** ./src/shared/CardsList/Card/CardTextContent/CardTextContent.tsx ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.CardTextContent = void 0;\nvar react_1 = __importDefault(__webpack_require__(/*! react */ \"./node_modules/react/index.js\"));\nvar cardtextcontent_css_1 = __importDefault(__webpack_require__(/*! ./cardtextcontent.css */ \"./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css\"));\nfunction CardTextContent() {\n    return (react_1.default.createElement(\"div\", { className: cardtextcontent_css_1.default.textContent },\n        react_1.default.createElement(\"div\", { className: cardtextcontent_css_1.default.preview },\n            react_1.default.createElement(\"img\", { className: cardtextcontent_css_1.default.previewImg, src: \"https://cdn.dribbble.com/userupload/3581333/file/original-a7f33ef1688ed92ce5a25d664769d341.png?compress=1&resize=752x\", alt: \"preview\" })),\n        react_1.default.createElement(\"div\", { className: cardtextcontent_css_1.default.content },\n            react_1.default.createElement(\"div\", { className: cardtextcontent_css_1.default.metaData },\n                react_1.default.createElement(\"div\", { className: cardtextcontent_css_1.default.userLink },\n                    react_1.default.createElement(\"img\", { className: cardtextcontent_css_1.default.avatar, src: \"https://cdn.dribbble.com/userupload/3581333/file/original-a7f33ef1688ed92ce5a25d664769d341.png?compress=1&resize=752x\", alt: \"avatar\" }),\n                    react_1.default.createElement(\"a\", { className: cardtextcontent_css_1.default.username, href: \"#\" }, \"Testusername\")),\n                react_1.default.createElement(\"span\", { className: cardtextcontent_css_1.default.createdAt }, \"4 hours ago\")),\n            react_1.default.createElement(\"h2\", { className: cardtextcontent_css_1.default.title },\n                react_1.default.createElement(\"a\", { className: cardtextcontent_css_1.default.postLink, href: \"#\" }, \"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium cum, dicta eum ex maiores non officiis voluptatibus. Assumenda, exercitationem, fugiat magni mollitia nam nihil odio possimus quas, quod sequi voluptatum?\")))));\n}\nexports.CardTextContent = CardTextContent;\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/CardTextContent/CardTextContent.tsx?");
+
+/***/ }),
+
+/***/ "./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css":
+/*!***********************************************************************!*\
+  !*** ./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var api = __webpack_require__(/*! ../../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ \"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\");\n            var content = __webpack_require__(/*! !../../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../../node_modules/less-loader/dist/cjs.js!./cardtextcontent.css */ \"./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css\");\n\n            content = content.__esModule ? content.default : content;\n\n            if (typeof content === 'string') {\n              content = [[module.i, content, '']];\n            }\n\nvar options = {};\n\noptions.insert = \"head\";\noptions.singleton = false;\n\nvar update = api(content, options);\n\nvar exported = content.locals ? content.locals : {};\n\n\nif (true) {\n  if (!content.locals) {\n    module.hot.accept(\n      /*! !../../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../../node_modules/less-loader/dist/cjs.js!./cardtextcontent.css */ \"./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css\",\n      function () {\n        var newContent = __webpack_require__(/*! !../../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../../node_modules/less-loader/dist/cjs.js!./cardtextcontent.css */ \"./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css\");\n\n              newContent = newContent.__esModule ? newContent.default : newContent;\n\n              if (typeof newContent === 'string') {\n                newContent = [[module.i, newContent, '']];\n              }\n\n              update(newContent);\n      }\n    )\n  }\n\n  module.hot.dispose(function() { \n    update();\n  });\n}\n\nmodule.exports = exported;\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/CardTextContent/cardtextcontent.css?");
+
+/***/ }),
+
+/***/ "./src/shared/CardsList/Card/CardTextContent/index.ts":
+/*!************************************************************!*\
+  !*** ./src/shared/CardsList/Card/CardTextContent/index.ts ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {\n    if (k2 === undefined) k2 = k;\n    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });\n}) : (function(o, m, k, k2) {\n    if (k2 === undefined) k2 = k;\n    o[k2] = m[k];\n}));\nvar __exportStar = (this && this.__exportStar) || function(m, exports) {\n    for (var p in m) if (p !== \"default\" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);\n};\nObject.defineProperty(exports, \"__esModule\", { value: true });\n__exportStar(__webpack_require__(/*! ./CardTextContent */ \"./src/shared/CardsList/Card/CardTextContent/CardTextContent.tsx\"), exports);\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/CardTextContent/index.ts?");
 
 /***/ }),
 
