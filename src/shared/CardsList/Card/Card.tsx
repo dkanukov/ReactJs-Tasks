@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './card.css';
 import {CardTextContent} from "./CardTextContent";
+import {CardMenu} from "./CardMenu";
 
 export function Card() {
     return (
@@ -13,7 +14,7 @@ export function Card() {
                 />
             </div>
             <CardTextContent/>
-            {/*<div className={styles.menu}/>*/}
+            <CardMenu/>
             {/*<div className={styles.controls}/>*/}
         </li>
     );
