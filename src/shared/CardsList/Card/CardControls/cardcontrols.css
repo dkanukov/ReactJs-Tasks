@@ -9,6 +9,7 @@
     display: flex;
     flex-flow: row nowrap;
 }
+
 .actions > * + * {
     margin: 0 0 0 13px;
 }
@@ -27,6 +28,32 @@ svg.down {
     transform: rotate(180deg);
 }
 
+.commentsButton {
+    display: flex;
+    align-items: normal;
+}
+
+.commentsButton * {
+    color: var(--greyC4);
+}
+
+.commentsNumber {
+    padding: 0 0 0 6px;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.saveButton {
+    width: 20px;
+    height: 20px;
+}
+
+.shareButton {
+    width: 20px;
+    height: 20px;
+}
+
+
 @media all and (min-width: 1024px) {
     .controls {
         order: 3;
@@ -44,6 +71,7 @@ svg.down {
         justify-content: center;
         flex-flow: column nowrap;
     }
+
     .karmaCounter > * + * {
         padding: 7px 0 0;
     }
@@ -52,6 +80,10 @@ svg.down {
         font-size: 14px;
         line-height: 16px;
         color: var(--black);
+    }
+
+    .commentsButton {
+        display: none;
     }
 }
 

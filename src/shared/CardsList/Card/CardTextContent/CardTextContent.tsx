@@ -21,7 +21,10 @@ export function CardTextContent() {
                         <a className={styles.username} href="#">
                             Testusername</a>
                     </div>
-                    <span className={styles.createdAt}>Опубликовано 4 часа назад</span>
+                    <span className={styles.createdAt}>
+                        <span className={styles.publishedLabel}>Опубликовано </span>
+                         4 часа назад
+                    </span>
                 </div>
             </div>
         </div>
