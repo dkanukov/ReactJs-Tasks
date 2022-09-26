@@ -1,0 +1,14 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/card.css":
+/*!***********************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./node_modules/less-loader/dist/cjs.js!./src/shared/CardsList/Card/card.css ***!
+  \***********************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\nexports = ___CSS_LOADER_API_IMPORT___(false);\n// Module\nexports.push([module.i, \"button {\\n  background: transparent;\\n  border: 0;\\n  padding: 0;\\n  cursor: pointer;\\n}\\n.card__card--7bN6- {\\n  position: relative;\\n  background-color: var(--white);\\n  border-radius: 7px;\\n  padding: 20px 20px 10px;\\n  display: flex;\\n  flex-flow: column-reverse wrap;\\n}\\n.card__card--7bN6- > *,\\n.card__textContent--3Ki_7 > * {\\n  flex: 1 1 100%;\\n}\\n.card__card--7bN6- > * + * {\\n  padding: 13px 0 0;\\n}\\n.card__card--7bN6-:hover h2 a,\\n.card__card--7bN6-:focus-within h2 a {\\n  color: var(--orange);\\n}\\n.card__preview--M1PGJ {\\n  max-height: 178px;\\n  margin: 0 -20px;\\n}\\n.card__previewImg--37Jut {\\n  width: 100%;\\n  height: 100%;\\n  /*object-fit: cover;*/\\n  object-fit: contain;\\n}\\n@media all and (min-width: 1024px) {\\n  .card__card--7bN6- {\\n    background-color: transparent;\\n    flex-flow: row nowrap;\\n    max-height: 107px;\\n    padding: 0 40px;\\n  }\\n  .card__card--7bN6- > * {\\n    flex: 0 0;\\n  }\\n  .card__card--7bN6- > * + * {\\n    padding: 0;\\n  }\\n  .card__preview--M1PGJ {\\n    flex-basis: 190px;\\n    order: 0;\\n    margin: 0;\\n  }\\n  .card__previewImg--37Jut {\\n    width: 100%;\\n    height: 100%;\\n  }\\n}\\n@media all and (min-width: 1540px) {\\n  .card__card--7bN6- {\\n    padding: 20px 60px;\\n    max-height: 147px;\\n    cursor: pointer;\\n  }\\n  .card__card--7bN6-:hover,\\n  .card__card--7bN6-:focus-within {\\n    outline: 1px solid var(--grey-demi-dark);\\n  }\\n}\\n\", \"\"]);\n// Exports\nexports.locals = {\n\t\"card\": \"card__card--7bN6-\",\n\t\"textContent\": \"card__textContent--3Ki_7\",\n\t\"preview\": \"card__preview--M1PGJ\",\n\t\"previewImg\": \"card__previewImg--37Jut\"\n};\nmodule.exports = exports;\n\n\n//# sourceURL=webpack:///./src/shared/CardsList/Card/card.css?./node_modules/css-loader/dist/cjs.js??ref--5-1!./node_modules/less-loader/dist/cjs.js");
+
+/***/ })
+
+})
